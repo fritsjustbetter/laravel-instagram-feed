@@ -1,5 +1,5 @@
 {
-  "name": "fritsjustbetter/laravel-instagram-feed",
+  "name": "dymantic/laravel-instagram-feed",
   "description": "Fetches the instagram feed for given authenticated profiles",
   "type": "library",
   "license": "MIT",
